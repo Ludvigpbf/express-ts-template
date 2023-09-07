@@ -316,8 +316,10 @@
 
     ```
 
-17.
+17. **Use www.mockaroo.com to generate dummy data for the database with this setup**
 
-```
-
-```
+firstName : First Name
+lastName : Last Name
+username : Username
+email : Email Adress
+password : Password Hash
