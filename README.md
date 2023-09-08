@@ -5,8 +5,7 @@
 ## Instructions:
 
 1.  **Make your way in the terminal to where you want to create your project and go into it:**
-    - mkdir your-express-app
-    - cd your-express-app<br><br>
+    - mkdir your-express-app && cd your-express-app<br><br>
 2.  **Initialise the express project:**
     - npm init -y<br><br>
 3.  **Install dependencies:**
